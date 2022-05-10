@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string.h>
 
+
+//Luiz Gustavo Leal Cortez e Breno Santos
+
 using namespace std;
 
 class Data
